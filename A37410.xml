@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The decrees of the Parlement of Paris upon a copy of the Pope's brief of the first of January, 1681 and upon the orders sent by the general of the Jesuites to the provincials of Tholouse and Paris : pass'd on the 18th and 20th of June, 1681, in reference to the present contest between the Pope and the King of France about the regale.</title>
+            <title>Arrests de la cour de Parlement sur une copie d'un bref du pape du premier janvier 1681. English</title>
+            <author>France. Parlement (Paris)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37410</idno>
+            <idno type="STC">Wing D807</idno>
+            <idno type="STC">ESTC R21364</idno>
+            <idno type="EEBO-CITATION">12259945</idno>
+            <idno type="OCLC">ocm 12259945</idno>
+            <idno type="VID">57843</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57843)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 179:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The decrees of the Parlement of Paris upon a copy of the Pope's brief of the first of January, 1681 and upon the orders sent by the general of the Jesuites to the provincials of Tholouse and Paris : pass'd on the 18th and 20th of June, 1681, in reference to the present contest between the Pope and the King of France about the regale.</title>
+                  <title>Arrests de la cour de Parlement sur une copie d'un bref du pape du premier janvier 1681. English</title>
+                  <author>France. Parlement (Paris)</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Tooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Dongois.</note>
+                  <note>Relates to the dispute between Pope Innocent XI and Louis XIV over the droit de régale.</note>
+                  <note>Imperfect: imprint date cropped; date of publication supplied from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Innocent --  XI, --  Pope, 1611-1689.</term>
+               <term>Louis --  XIV, --  King of France, 1638-1715.</term>
+               <term>France. --  Parlement (Paris) --  Resolutions.</term>
+               <term>Church and state --  France --  Early works to 1800.</term>
+               <term>Church and state --  Catholic Church --  Early works to 1800.</term>
+               <term>Regalia --  France --  Early works to 1800.</term>
+               <term>Prerogative, Royal --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57843:1"/>
+            <pb facs="tcp:57843:1" rendition="simple:additions"/>
+            <p>THE DECREES OF THE Parlement of Paris, Upon a Copy of the POPE'S BRIEF Of the firſt of <hi>January,</hi> 1681.</p>
+            <p>And upon the <hi>ORDERS</hi> ſent by the <hi>General</hi> of the <hi>Jeſuites</hi> to the Provincials of <hi>Tholouſe</hi> and <hi>Paris.</hi>
+            </p>
+            <p>Paſs'd on the 18th and 20th of <hi>June,</hi> 1681. In reference to the preſent Conteſt between the Pope and the King of <hi>France</hi> about the <hi>REGALE.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benj. Tooke</hi> at the Ship in S. <hi>Paul</hi>'s Church-Yard<g ref="char:punc">▪</g> 16<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="18 June 1681" type="excerpt">
+            <pb facs="tcp:57843:2"/>
+            <pb n="1" facs="tcp:57843:2"/>
+            <head>AN EXTRACT OF THE REGISTERS OF PARLEMENT.</head>
+            <p>THis preſent day the King's Attorney-General came into the Court of Parliament, and alledged, that the Report being publickly ſpread up and down, That the Pope had enjoyned the <hi>General</hi> of the <hi>Jeſuits,</hi> to direct to the <hi>Provincials</hi> of <hi>Paris</hi> and <hi>Tholouſe</hi> au<g ref="char:EOLhyphen"/>thentical Copies of the <hi>Brief</hi> iſſued out by his Holineſs, on the firſt day of this preſent year, together with a more parti<g ref="char:EOLhyphen"/>cular Injunction to him of <hi>Tholouſe,</hi> to publiſh it, and to ob<g ref="char:EOLhyphen"/>lige thoſe of that Society, to affirm the Reality of the ſaid Brief, contrary to the Opinion, which we were deſirous that men ſhould ſtill have had of it; As alſo that the <hi>General</hi> of the <hi>Jeſuits</hi> having written to thoſe <hi>Provincials,</hi> purſuantly to that Precept of the Pope, had ſent to him of <hi>Tholouſe</hi> an Au<g ref="char:EOLhyphen"/>thentical Expedition of that <hi>Brief,</hi> with an Order that it might be communicated to that of <hi>Paris:</hi> This new Method and Invention of publiſhing <hi>Bulls</hi> and <hi>Briefs</hi> in the Kingdom, con<g ref="char:EOLhyphen"/>trary to the Forms which had been obſerved to this preſent time; as well in this as the neighbouring Countreys, ſeem'd to be of ſo great conſequence, that he accounted it his duty to inform the Court of it, to the end, that if that Report prov'd to be true, they might be pleas'd to obſtruct the eſta<g ref="char:EOLhyphen"/>bliſhment of an Innovation, the Conſequences whereof might be ſo dangerous, and particularly at ſuch a time, when ſuch
+<pb n="2" facs="tcp:57843:3"/>extraordinary <hi>Briefs</hi> are ſeen to come abroad. But repreſent<g ref="char:EOLhyphen"/>ing withal, that the Prudence and Juſtice of the Court of Parlement, not permitting him to act upon uncertain grounds, it was his humble Requeſt to them, that they would be plea<g ref="char:EOLhyphen"/>ſed, conſidering the abſence of the <hi>Provincial,</hi> to ſummon in the <hi>Superiour</hi> of the <hi>Profeſs'd Houſe,</hi> the <hi>Rectors</hi> of the <hi>Col<g ref="char:EOLhyphen"/>ledge,</hi> and of the <hi>Noviciat</hi> of the <hi>Jeſuits,</hi> and the <hi>Procurator</hi> of the Province of <hi>Paris,</hi> to give an account to the ſaid Court of Parlement, in the preſence of him the Attorney-General, and his Collegues, of what they know concern<g ref="char:EOLhyphen"/>ing that Report, that the Court may proceed therein, upon the Concluſions which they ſhould take, after they have been more particularly inform'd by that means.</p>
+            <p>The ſaid Attorney-General having with-drawn, and the Matter being taken into Deliberation, it was reſolv'd, that the <hi>Superiour</hi> of the <hi>Profeſs'd Houſe</hi> of the <hi>Jeſuits,</hi> the <hi>Rectors</hi> of the <hi>Colledge,</hi> and the <hi>Noviciat,</hi> and the <hi>Procurator</hi> of the Province of <hi>Paris</hi> ſhould be ſummon'd to appear in Court, on <hi>Friday</hi> at ſeven in the Morning, that they might be heard in the preſence of the King's Council, and give an Account of what they knew of the ſaid <hi>Brief</hi> of <hi>January</hi> 1. 1681. and of the <hi>Orders</hi> which the <hi>Provincial</hi> receiv'd from the <hi>Gene<g ref="char:EOLhyphen"/>ral</hi> upon that occaſion. And that done, that ſuch Order be taken therein, upon the Concluſions of his Majeſties Coun<g ref="char:EOLhyphen"/>cil, as ſhall be requiſite. </p>
+            <closer>
+               <dateline>Done in Parliament, <date>
+                     <hi>June</hi> the 18th. 1681.</date>
+               </dateline>
+               <signed>Signed <hi>DONGOIS.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div n="20 June 1681" type="excerpt">
+            <head>An Extract of the Regiſters of <hi>Parliament.</hi>
+            </head>
+            <p>THis day the King's Council came into Court, and gave notice, that Father <hi>de Verthamont, Superiour</hi> of the <hi>Pro<g ref="char:EOLhyphen"/>feſs'd Houſe</hi> of the <hi>Jeſuits,</hi> of this City of <hi>Paris,</hi> the Fathers <hi>Deſchamps,</hi> and <hi>Dozaine,</hi> Rectors of the Colledge, and of the
+<pb n="3" facs="tcp:57843:3"/>
+               <hi>Noviciat,</hi> and Father <hi>Pallu,</hi> Procurator of the Province of <hi>France,</hi> were attending in the <hi>Lobby,</hi> in order to their recei<g ref="char:EOLhyphen"/>ving the pleaſure of the Court, according to the Reſolve of the 18th. of that Month: Whereupon the ſaid Father-<hi>Jeſuit,</hi> being brought into the preſence of the King's Council, <hi>Men<g ref="char:EOLhyphen"/>ſieur</hi> the firſt Preſident thus ſpoke to them:</p>
+            <p>This Court hath ſummon'd you to appear here, upon the Advertiſement given to us, that your General hath not long ſince ſent into <hi>France,</hi> by the Pope's Order, to ſome of your Provincials, a pretended <hi>Brief,</hi> in order to the publiſhing of it. This kind of procedure, quite oppoſite to the Orders of the Kingdom, has always been diſallow'd with Reproach againſt its Authors, as often as they have attempted to put it in practice. It is a ſtrange thing that a Prince, who has not ceas'd conquering, till ſuch time as he was pleas'd to do ſo, and who has given Peace to <hi>Europe</hi> cannot enjoy it himſelf, and that he is not diſturbed therein, but by the principal Miniſters of Truth, while he expends his Cares and Treaſures for the Deſtruction of Hereſie: But it is a Happi<g ref="char:EOLhyphen"/>neſs, that this Pacquet is fallen into Hands ſo reſerv'd as yours: We do not ſurprize your Wiſdom, nor do we corrupt your Fidelity. The Court deſires of you, that you would make it a Relation of what has paſs'd upon this occaſion.</p>
+            <p>Father <hi>Verthamont</hi> acknowledg'd, that their Provincial had receiv'd a Letter from their General of the 23d. of <hi>April</hi> laſt, with a Copy in the <hi>Italian</hi> Language, of an Order of the <hi>Pope</hi>'s, for the directing, to the Provincial of <hi>Tholouſe,</hi> a Copy, in an Authentical Form, of his Holineſſe's <hi>Brief</hi> of the firſt of <hi>January</hi> this preſent year, concerning the Grand-Vicars, eſtabliſh'd in the Dioceſe of <hi>Pamiers,</hi> during the Va<g ref="char:EOLhyphen"/>cancy of the See, and for enjoyning the <hi>Jeſuits</hi> of <hi>Tholouſe</hi> and <hi>Pamiers</hi> to declare, that the ſaid Brief was real, and to addreſs a Copy of it, to the Provincial of <hi>Paris,</hi> that he might alſo be aſſur'd of the Reality thereof. And by that Order, the General is charg'd to give an Account, to the
+<pb n="4" facs="tcp:57843:4"/>Aſſeſſor of the Inquiſition, of the Anſwers which ſhould be made unto him. That in the ſame Pacquet, there was an un<g ref="char:EOLhyphen"/>ſigned Copy of that <hi>Brief.</hi> That he himſelf knew, that, by by way of Anſwer to the General's Letter, their Provincial had, among other things, written to him, that he did not be<g ref="char:EOLhyphen"/>lieve any one of his Society would would have been ſo un<g ref="char:EOLhyphen"/>fortunate, as to make any diminution of the reſpect they owe his Holineſs, as he might alſo aſſure the Court, on the behalf of all the <hi>Jeſuits</hi> of the Kingdom, that they ſhould not ever be defective in point of Fidelity and Zeal for his Majeſty.</p>
+            <p>Whereupon Monſieur <hi>Denys Talon,</hi> the King's Advocate, and one of his Council ſpoke thus: Sirs, It is apparent by what has been juſt now ſaid, by the Superior of the <hi>Jeſuits</hi> Houſe of St. <hi>Lewis,</hi> in this City, That the General of the <hi>Je<g ref="char:EOLhyphen"/>ſuits</hi> had receiv'd an Order from the Pope, for his ſending to the Provincials of the <hi>Jeſuits</hi> of <hi>Paris</hi> and <hi>Tholouſe,</hi> an au<g ref="char:EOLhyphen"/>thentical Copy of a Brief, dated the firſt day of this preſent year, which is preſuppos'd to be directed to the Chapter of <hi>Pamiers,</hi> and to Friar <hi>Cerle,</hi> in the quality of the Grand Vicar of <hi>Pamiers,</hi> during the Vacancy of the See, and that with a Deſign, that the <hi>Jeſuits</hi> of <hi>Tholouſe</hi> and <hi>Pamiers,</hi> who, as it is pretended by ſome, had publickly affirm'd, that the ſaid Brief was not real, ſhould be oblig'd to retract it, to con<g ref="char:EOLhyphen"/>feſs the reality of the Brief, and to acknowledge withal the fault they have committed by an affected Incredulity, and they would have it, that the General ſhould give an Account to the Aſſeſſor of the Inquiſition of the Anſwers which ſhall be made unto him. This Order, which does not appear to have any Date, is accompany'd with a Copy of the Brief, but not Signed, and by a Letter of the General's, repeating the ſame thing contained in the Pope's Order. It is eaſily diſcoverable by this ſimple Expoſition of the matter of Fact, that this man<g ref="char:EOLhyphen"/>ner of deſigning to publiſh, and in ſome ſort to execute Briefs in the Kingdom, is new, contrary to the Laws of the Coun<g ref="char:EOLhyphen"/>try, and of a dangerous Conſequence. It is not only in <hi>France,</hi>
+               <pb n="5" facs="tcp:57843:4"/>that Briefs and other important Expeditions of the Court of <hi>Rome</hi> cannot be either publiſh'd or put in Execution, with<g ref="char:EOLhyphen"/>out the King's permiſſion. The ſame thing is practic'd in <hi>Spain,</hi> and in moſt of the other Countreys, wherein the Authority of the Holy See is acknowledg'd.</p>
+            <p>The Correſpondence which ought to be between the two Powers, the Intereſt which Sovereign Princes have to prevent the Introduction of any thing from abroad, tending to the diſturbance of the Tranquility of their Governments, has ren<g ref="char:EOLhyphen"/>der'd this Cuſtom legal and neceſſary: But that wiſe precau<g ref="char:EOLhyphen"/>tion, which many times diſpenſes with our entring into more intricate Conteſtations, would be of no Advantage, if the Contrivance which they have made uſe of at <hi>Rome,</hi> in order to the publiſhing of the <hi>Brief</hi> of the firſt of <hi>January</hi> be autho<g ref="char:EOLhyphen"/>rized; in regard that, as often as there ſhall be any <hi>Bulls,</hi> which they would have received in the Kingdom, and yet ſuch as whereof his Majeſty will not think convenient to per<g ref="char:EOLhyphen"/>mit either the Execution or Publication, they will make uſe of the interpoſition of the <hi>Generalls</hi> of Orders, who, for the moſt part have their Reſidence at <hi>Rome.</hi> And the Pope by, their Channell, will pretend to get into <hi>France</hi> all the De<g ref="char:EOLhyphen"/>crees of the <hi>Inquiſition,</hi> and in a word, all the Encroachments which the Court of <hi>Rome</hi> would make upon our Liberties.</p>
+            <p>It is therefore neceſſary to check the courſe of ſo danger<g ref="char:EOLhyphen"/>ous an Innovation; which yet may be done with ſo much the more eaſe, that, as to that concern, there is not any ne<g ref="char:EOLhyphen"/>ceſſity of eſtabliſhing new Laws. It is only requiſite that we keep our ſelves from diſpenſing with the obſervation of the ancient Ordinances, which do not allow of the publication of any <hi>Brief</hi> or <hi>Bull,</hi> from <hi>Rome,</hi> without the King's permiſ<g ref="char:EOLhyphen"/>ſion. And this is done in ſome Provinces with ſo much Ri<g ref="char:EOLhyphen"/>gour, that the very ſimple Signatures of Proviſions of Bene<g ref="char:EOLhyphen"/>fices are not exempted from that General Order, whether they come from <hi>Rome,</hi> or the Legation of <hi>Avignon.</hi> What we do in this Juncture for the Publick Intereſt, and his Ma<g ref="char:EOLhyphen"/>jeſties
+<pb n="6" facs="tcp:57843:5"/>Service, proceeds not from our having Cauſe to com<g ref="char:EOLhyphen"/>plain of the <hi>Jeſuits;</hi> the Reproaches which they receive in the Direction, written in the <hi>Pope's</hi> Name, and in their <hi>Ge<g ref="char:EOLhyphen"/>neral's</hi> Letter, ought, amongſt us, to ſtand them inſtead of an Elogy, and are certain Proofs, that they have not devia<g ref="char:EOLhyphen"/>ted from their Duty. And therefore ſince it may be ſome diſſatisfaction to them, that they cannot ſubmit to the Or<g ref="char:EOLhyphen"/>ders of the <hi>Pope</hi> and their <hi>General,</hi> in caſe they are not in<g ref="char:EOLhyphen"/>form'd, how oppoſite that Order is to the Laws of the King<g ref="char:EOLhyphen"/>dom, it is but juſt that we relieve them, and rid them out of the perplexity, which they might run into by the Authority of the Decree which will be paſs'd. But if we have not hither<g ref="char:EOLhyphen"/>to uſed endeavours to prevent the Publication of the Brief of the firſt of <hi>January;</hi> if we have look'd upon the Copies, which have been ſcatter'd up and down of it in <hi>Paris,</hi> rather as Libels, than Copies of an authentical Act, it has not been out of any Fear, but is to be attributed to our mode<g ref="char:EOLhyphen"/>ration, as being inclineable to doubt of their reality. We ſhall not want Remedies to oppoſe Enterprizes of that Na<g ref="char:EOLhyphen"/>ture, when it ſhall not be allowable in us to connive at them any longer. We ſhall uſe our utmoſt endeavours to continue the good Correſpondence which ought to be between His Majeſty and the Pope, between the <hi>Holy See,</hi> and the <hi>Galli<g ref="char:EOLhyphen"/>cane Church;</hi> and whatever may happen, we ſhall never, on our part, make a Breach of that Sacred Union of the <hi>Sacer<g ref="char:EOLhyphen"/>dotal</hi> Function, and the <hi>Royalty,</hi> ſo neceſſary to keep up the Splendor of both the Powers, and to preſerve and dilate Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>But on the other ſide, we ſhall not endure the Impoſition of a Yoke, which our Fathers have not undergone, nor the Abolition of our Liberties, of which they were ſo jealous. We ſhall never approve of any Alteration in the Order of Ju<g ref="char:EOLhyphen"/>riſdictions. When the Pope receives Appeals from Eccleſia<g ref="char:EOLhyphen"/>ſtical Judgments, he is oblig'd to nominate Judges in the Kingdom, for the termination of them, and he cannot en<g ref="char:EOLhyphen"/>tertain
+<pb n="7" facs="tcp:57843:5"/>affairs there at firſt breaking out, nor retain the cog<g ref="char:EOLhyphen"/>nizance thereof at <hi>Rome,</hi> whether it be in reference to the va<g ref="char:EOLhyphen"/>lidity of Elections, or even of Appeals from Sentences given by Biſhops, or other Officials. As we are inclin'd to a Religi<g ref="char:EOLhyphen"/>ous obſervation of the <hi>Concordate,</hi> and do tolerate Reſignati<g ref="char:EOLhyphen"/>ons in favour, Preventions, <hi>Annates</hi> (that is annual Tenths) though contrary to the ancient diſcipline of the Church; So ought the Pope to execute it on his ſide alſo, in the things that are favourable to us, which we do not look upon as Pri<g ref="char:EOLhyphen"/>viledges granted us by <hi>Rome,</hi> but as the exerciſe of common right, and as the Ground-work of our Immunities. And it is thereby eaſily perceivable, that thoſe perſons, who are the Authors of the Brief of the firſt of <hi>January,</hi> and of many others, which have appear'd upon this matter, engage the Pope in conteſts more likely to retrench his Authority, than to aug<g ref="char:EOLhyphen"/>ment it, and ſeem to have no other deſign, than that of diſtur<g ref="char:EOLhyphen"/>bing the Peace of the Church. In ſhort, the <hi>Regale</hi> being one of the moſt eminent rights of the Crown, how can they hope that the King will ever endure that that Illuſtrious Preroga<g ref="char:EOLhyphen"/>tive ſhould, during his Reign, admit of the leaſt ſhock or di<g ref="char:EOLhyphen"/>minution? Your own Records acquaint you, that the <hi>Regale</hi> was always ſo conſider'd as a right of the Crown, unalien<g ref="char:EOLhyphen"/>able and impreſcriptible, that King <hi>Francis</hi> the Firſt, having left Madam <hi>Louiſe</hi> of <hi>Savoy,</hi> his Mother, Regent in the King<g ref="char:EOLhyphen"/>dom, and having, amongſt other things, inveſted her with a power to confer Benefices, vacant in the Regal donation, ſhe was oblig'd to renounce that Priviledge, upon the Re<g ref="char:EOLhyphen"/>monſtrances of the Parlement, who repreſented to her, that the right of conferring Benefices, in the Regal Donation, was ſo annex'd to the King's Perſon, that he could never part with it, or communicate it to any other. The Judgment of particular, or general Controverſies, ariſing in the matters of the <hi>Regale,</hi> do belong, and ever have belong'd to this Ho<g ref="char:EOLhyphen"/>nourable Aſſembly, privatively to all other Tribunals of the Kingdom. It was your Honourable Body judg'd it above ſe<g ref="char:EOLhyphen"/>venty
+<pb n="8" facs="tcp:57843:6"/>years ſince, that the <hi>Regale</hi> extended over all Biſho<g ref="char:EOLhyphen"/>pricks, without any diſtinction; and the Declarations of MDCLXXIII, and MDCLXXV, do not make any new Eſta<g ref="char:EOLhyphen"/>bliſhment, and do but confirm your Decree. So that we may confidently affirm, that how great ſoever the King's Authority may be, yet he can no more renounce the <hi>Regale,</hi> either whol<g ref="char:EOLhyphen"/>ly, or in part, than he can deſtroy the <hi>Salick Law,</hi> or aban<g ref="char:EOLhyphen"/>don the Sovereignty of ſome part of the Provinces, which make up and integrate the <hi>French</hi> Monarchy; and what ſub<g ref="char:EOLhyphen"/>miſſion ſoever we may have for his Will and Pleaſure, we ſhall rather beſeech him to diſburthen us of the Exerciſe of our Charges, than endure, that that Priviledge ſhould receive the leaſt Diminution by our Suffrages, or our Silence. There is not any neceſſity that a man ſhould be much vers'd in our Maxims, to diſcover, that it is not at <hi>Rome</hi> theſe Queſtions ought to be diſcuſs'd, and that whatever has been hitherto done, either on the account of the Pope, or his Officers, is e<g ref="char:EOLhyphen"/>qually unmaintainable, as well in the form, as the ground<g ref="char:EOLhyphen"/>work of it. 'Tis to no purpoſe that they menace with <hi>Excom<g ref="char:EOLhyphen"/>munication,</hi> not only the Eccleſiaſticks, but the very Prelates of the Kingdom, when they do not implicitely ſubmit to Briefs contrary to our manners, and ſuch as would abſo<g ref="char:EOLhyphen"/>lutely aboliſh the Epiſcopal Juriſdiction, if the Execution thereof were permitted. Appeals, in the caſe of abuſes, intro<g ref="char:EOLhyphen"/>duc'd to maintain the Policy of the Church, and to obſtruct the uſurpations of the Officers of the Court of <hi>Rome</hi> upon the Temporal and Eccleſiaſtical Juriſdiction, are infallible expe<g ref="char:EOLhyphen"/>dients to ſecure all the King's Subjects from thoſe Cenſures, which our Anceſtors have ſlighted, and declared abuſive, when there was no legal Ground for them.</p>
+            <p>Having thus proteſted, as we do, that we ſhall uſe all the means, which we ſhall think convenient, to check the courſe of all theſe Innovations, and to put a period to attempts ſo prejudicial to the King's Authority, and the Immunities of the <hi>Gallicane</hi> Church; It is our requeſt, that the Court will
+<pb n="9" facs="tcp:57843:6"/>be pleas'd to order the Copy of the <hi>Brief</hi> of the firſt of <hi>Janu<g ref="char:EOLhyphen"/>ary,</hi> the <hi>Italian Memoirs</hi> ſent to the General of the <hi>Jeſuits,</hi> and the Letter by him written to the Provincial of the Province of <hi>Fance,</hi> to be regiſtred amongſt the Records of the Court, to the end, that after Communication had of them what is fitting may be required; That there be a prohibition iſſued out to the <hi>Provincial,</hi> and to all the <hi>Superiours</hi> of the Houſes of the <hi>Jeſuits,</hi> againſt the publiſhing of the ſaid <hi>Brief, Letters,</hi> and <hi>Memoires,</hi> and doing any thing as to the Execution there<g ref="char:EOLhyphen"/>of, directly or indirectly, under any pretence whatſoever, upon pain of an extraordinary procedure againſt thoſe who ſhall not obey, as diſturbers of the publick tranquillity; as alſo upon pain, as to the Society, of the Forfeiture of all the rights, priviledges, and prerogatives, which are attributed thereto, as well by its eſtabliſhment, as otherwiſe. That the like Pro<g ref="char:EOLhyphen"/>hibitions be made to all the Superiours, nay to all the indi<g ref="char:EOLhyphen"/>vidual perſons of the Religious Communities, againſt publiſh<g ref="char:EOLhyphen"/>ing, or executing any <hi>Bull</hi> or <hi>Brief,</hi> otherwiſe than purſuant<g ref="char:EOLhyphen"/>ly to Letters-Patents well and duly verify'd in Court, and that under the ſame penalties: And that to that end, the De<g ref="char:EOLhyphen"/>cree which is to paſs upon the preſent concluſions ſhall be read in all places, where it ſhall be thought requiſite.</p>
+            <p>Monſieur the Firſt Preſident pronounc'd his Opinion. The Court order'd, That the Copies of the pretended Brief, the Memoire containing the Pope's Order, and the Letter ſent, ſhall be immediately regiſtred, that they may be communica<g ref="char:EOLhyphen"/>ted to his Majeſties Attorney-General, and to the end, that, upon his Concluſions in writing, ſuch proviſion ſhould be made therein as is requiſite. And after the Decree pronon<g ref="char:EOLhyphen"/>ced, Monſieur the Firſt Preſident ſaid to the <hi>Jeſuits;</hi> 
+               <q rend="margQuotes">The preſent Aſſembly orders me to tell you, that they are ſatisfy'd with your obedience.</q> The ſaid Pieces were regiſtred, and afterwards the King's Council withdrew.</p>
+            <p>And afterwards, upon the peruſal of the ſaid Pieces, and the Concluſions taken in writing by the King's Attorney-Ge<g ref="char:EOLhyphen"/>neral,
+<pb n="10" facs="tcp:57843:7"/>whereby he had required, That prohibitions ſhould be made to the ſaid Provincial and others of the ſaid Society, as to the publiſhing the ſaid Brief, and the orders receiv'd from the Pope, by the General of their Society, and doing any thing directly or indirectly executively thereto; And that Prohibi<g ref="char:EOLhyphen"/>tions ſhould be in like manner made to all Provincials, Supe<g ref="char:EOLhyphen"/>riours, and private perſons of all the Religious Orders, againſt their publiſhing and executing any Briefs, or Bulls of the Pope, other than the Briefs and Bulls, relating to the interiour and ordinary diſcipline of their Orders, otherwiſe than conſequen<g ref="char:EOLhyphen"/>tially to the King's Letters Patents, regiſter'd in the Court of Parlement, upon pain of an extraordinary procedure againſt all ſuch as ſhould be refractory, and, as to the ſaid Society and Religious Orders, upon the forfeiture of all the favours and priviledges which had been granted to them. The matter was taken into Deliberation.</p>
+            <p>THE COURT proceeding juridically upon the Concluſi<g ref="char:EOLhyphen"/>ſions of the King's Attorney-General, does make prohibitions to the ſaid Provincial, and others of the Society of the <hi>Jeſuits,</hi> as to the publiſhing the ſaid Brief, and Orders receiv'd from the Pope, by the General of their Society, and doing any thing directly or indirectly in the execution thereof. And it makes al<g ref="char:EOLhyphen"/>ſo moſt expreſs prohibitions to all Provincials, Superiours, and Religious Perſons, of all Orders, that they do not publiſh or execute any Briefs or Bulls of the Pope, other than the Briefs and Bulls relating to the interiour and ordinary diſcipline of their Orders, otherwiſe than conſequentially to the King's Let<g ref="char:EOLhyphen"/>ters Patents regiſtred in the Court of Parlement, upon pain of extraordinary procedure againſt the refractory, and, in refe<g ref="char:EOLhyphen"/>rence to the ſaid Society and Orders, of forfeiture of all the favours and priviledges which have been granted them by the King, and the Kings his Predeceſſors.</p>
+            <closer>
+               <dateline>Done in Parlement, <date>
+                     <hi>June</hi> 20th. MDCLXXXI.</date>
+               </dateline>
+               <signed>Signed <hi>DONGOIS.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57843:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
